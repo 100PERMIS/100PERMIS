@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=100permis&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186104796%3Fu%3D1c26c98eba38dbbd2c5017649bc06b0c09715a61%26v%3D4&v=showcase-wordmark-2&pv=SMeSc5duXWCZwIvx" />
+<img src="https://www.gitskins.com/api/section/neofetch?username=100permis&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186104796%3Fu%3D1c26c98eba38dbbd2c5017649bc06b0c09715a61%26v%3D4&role=Product-minded+developer&mode=dark&pv=SMeSc5duXWCZwIvx" />
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=100permis&theme=aurora&style=terminal&mode=dark" width="100%" alt="contributions" />
+<img src="https://www.gitskins.com/api/section/wordmark?username=100permis&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186104796%3Fu%3D1c26c98eba38dbbd2c5017649bc06b0c09715a61%26v%3D4&v=showcase-wordmark-2&pv=SMeSc5duXWCZwIvx" />
 
 </div>
 
